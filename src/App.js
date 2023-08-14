@@ -24,7 +24,7 @@ function App() {
   // console.log(data);
 
   return (
-    <div className="container mx-auto mt-9">
+    <div className="container mx-auto mt-9 dark:bg-gray-800 p-4">
       <h1 className="mb-[20px] text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white ">
         Takım{" "}
         <span className="underline underline-offset-3 decoration-8 decoration-blue-400 dark:decoration-blue-600">
